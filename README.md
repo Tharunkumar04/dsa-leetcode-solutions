@@ -106,8 +106,8 @@ function twoSum(nums, target) {
 
 ##  Connect
 
-- GitHub: [https://github.com/your-username](https://github.com/Tharunkumar04)
-- LinkedIn: [https://linkedin.com/in/your-profile](www.linkedin.com/in/kollutharunkumar)
+- GitHub: [https://github.com/Tharunkumar04](https://github.com/Tharunkumar04)
+- LinkedIn: [www.linkedin.com/in/kollutharunkumar](www.linkedin.com/in/kollutharunkumar)
 
 ---
 
