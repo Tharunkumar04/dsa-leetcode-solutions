@@ -45,16 +45,16 @@ dsa-leetcode-solutions/
 
 ## Progress Tracker
 
-| Topic                | Solved |
-|---------------------|--------|
-| Arrays              | 0      |
-| Strings             | 0      |
-| LinkedList          | 0      |
-| Stack               | 0      |
-| Queue               | 0      |
-| Trees               | 0      |
-| Graphs              | 0      |
-| DynamicProgramming  | 0      |
+| Topic                | Solved | Topics Covered |
+|---------------------|--------|----------------|
+| Arrays              | 1      | Prefix Sum, Kadane's Algorithm |
+| Strings             | 0      | - |
+| LinkedList          | 0      | - |
+| Stack               | 0      | - |
+| Queue               | 0      | - |
+| Trees               | 0      | - |
+| Graphs              | 0      | - |
+| DynamicProgramming  | 0      | - |
 
 ---
 
